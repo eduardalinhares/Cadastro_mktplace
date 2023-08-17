@@ -65,8 +65,6 @@ public class CategoriaService {
 	}
 	
 	
-	
-	
 	private void validar(Categoria categoria) {
 		if(categoria != null) {
 			
